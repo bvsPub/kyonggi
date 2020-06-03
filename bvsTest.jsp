@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="test">
-        0603 11.16 siver : git-ftp test
+        0603 11.16 silver : git-ftp test
     </div>
 </body>
 </html>
